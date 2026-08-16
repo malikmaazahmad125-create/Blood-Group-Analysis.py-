@@ -67,6 +67,7 @@ The program provides:
 * Patient search functionality
 * Blood group statistics
 * Data visualization charts
+![Blood Group Analysis](blood_group_analysis_visualization.png)
 
 ## 🎯 Purpose
 
